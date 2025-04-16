@@ -9,9 +9,14 @@ sections:
       type: TitleBlock
     subtitle: a masterpiece in making
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We or so called "AURA" empowers aspiring entrepreneurs to turn their
+      business ideas into reality. Our comprehensive curriculum, mentorship, and
+      resources nurture entrepreneurship, creating job opportunities, fostering
+      local growth, and strengthening communities. By supporting passionate
+      individuals, we empower them to achieve their aspirations and contribute
+      to the success of their ventures. Startups rely on our services to sustain
+      growth and development. Design is the cornerstone and culmination of a
+      successful business.
     actions:
       - label: Get started
         altText: ''
