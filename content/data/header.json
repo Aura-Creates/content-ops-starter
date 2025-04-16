@@ -10,7 +10,7 @@
             "showIcon": true
         },
         {
-            "label": "Blog",
+            "label": "Blog and Tips",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
