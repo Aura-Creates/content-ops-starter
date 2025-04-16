@@ -106,12 +106,9 @@ sections:
       - title: SCHOLASTIC INTERNSHIP
         subtitle: ''
         text: >
-          Our scholastic internship was a success due to Rithika, Dyanesh, and
-          Rahul’s dedication. They had excelled in management, marketing,
-          design, and sales. Their organizational skills, teamwork, innovative
-          campaigns, creative materials, and persuasive pitches led to
-          substantial conversions. Their proactive approach and diverse skill
-          sets made them invaluable assets.
+          Rithika, Dyanesh, and Rahul’s dedication and diverse skill sets led to
+          a successful scholastic internship. Their innovative campaigns and
+          persuasive pitches resulted in substantial conversions.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
