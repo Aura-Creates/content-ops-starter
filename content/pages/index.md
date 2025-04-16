@@ -134,7 +134,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Impact
+      label: Projects
       color: text-primary
       styles:
         self:
