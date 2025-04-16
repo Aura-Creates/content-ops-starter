@@ -78,10 +78,12 @@ sections:
               borderRadius: x-large
       - title: TEDZUKURI
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          This project aimed to raise awareness and generate demand for handmade
+          artworks by highlighting their unique aesthetics and craftsmanship.
+          The vision was to turn artistic talents into a profitable venture,
+          supporting handmade artistry through quality, creativity, and customer
+          satisfaction.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
