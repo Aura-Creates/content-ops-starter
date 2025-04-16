@@ -106,9 +106,10 @@ sections:
       - title: SCHOLASTIC INTERNSHIP
         subtitle: ''
         text: >
-          Rithika, Dyanesh, and Rahul’s dedication and diverse skill sets led to
-          a successful scholastic internship. Their innovative campaigns and
-          persuasive pitches resulted in substantial conversions.
+          Our skilled pillars Rithika, Dyanesh, and Rahul’s dedication and
+          diverse skill sets led to a successful scholastic internship. Their
+          innovative campaigns and persuasive pitches resulted in substantial
+          conversions.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
