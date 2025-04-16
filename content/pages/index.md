@@ -105,10 +105,13 @@ sections:
         type: FeaturedItem
       - title: SCHOLASTIC INTERNSHIP
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our scholastic internship was a success due to Rithika, Dyanesh, and
+          Rahul’s dedication. They had excelled in management, marketing,
+          design, and sales. Their organizational skills, teamwork, innovative
+          campaigns, creative materials, and persuasive pitches led to
+          substantial conversions. Their proactive approach and diverse skill
+          sets made them invaluable assets.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
