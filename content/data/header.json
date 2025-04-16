@@ -80,7 +80,7 @@
         },
         {
             "type": "Link",
-            "label": "Send email",
+            "label": "Mail us",
             "altText": "Play",
             "url": "/Contact",
             "showIcon": true,
