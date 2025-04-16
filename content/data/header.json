@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "altText": "AURA",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "url": "/images/IMG_1090.png"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
