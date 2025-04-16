@@ -159,7 +159,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/IMG_2503.jpeg
+      - url: /images/contenful-logo.svg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
