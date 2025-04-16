@@ -20,16 +20,6 @@
             "showIcon": true
         },
         {
-            "label": "Other Projects",
-            "altText": "Projects",
-            "url": "/otherprojects",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
-        },
-        {
             "label": "About the Founders",
             "altText": "Founders",
             "links": [
@@ -44,6 +34,16 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Other Projects",
+            "altText": "Projects",
+            "url": "/otherprojects",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": true
         }
     ],
     "secondaryLinks": [
