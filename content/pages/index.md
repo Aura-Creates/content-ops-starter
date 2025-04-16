@@ -48,7 +48,7 @@ sections:
     items:
       - type: FeaturedItem
         title: NESAVU
-        subtitle: 'Our approach on fashion brand, and how to uplift them'
+        subtitle: 'Our approach on fashion brand, and how to u'
         text: >
           AURA’s marketing integration with Nesavu streamlined operations and
           enhanced customer understanding through data analytics. This
