@@ -20,7 +20,7 @@
         },
         {
             "label": "Other Projects",
-            "altText": "Careers page",
+            "altText": "Projects",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
