@@ -38,7 +38,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/Untitled design.png
+      url: /images/IMG_2495.jpeg
     badge:
       label: THE AUra creates
       color: text-primary
