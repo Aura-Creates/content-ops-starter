@@ -50,14 +50,10 @@ sections:
         title: NESAVU
         subtitle: 'Our approach on fashion brand, and how to uplift them'
         text: >
-          AURA’s innovative marketing integration with fashion retail
-          streamlined Nesavu’s operations and enhanced customer understanding.
-          Data analytics enabled trend prediction, stock optimization, and
-          personalized shopping experiences, boosting customer satisfaction and
-          loyalty. This collaboration transformed Nesavu’s business model and
-          set a real-world learning experience. It inspired plans to expand
-          AURA’s methodologies to other departments, fostering creativity and
-          entrepreneurship.
+          AURA’s marketing integration with Nesavu streamlined operations and
+          enhanced customer understanding through data analytics. This
+          collaboration transformed Nesavu’s business model and inspired plans
+          to expand AURA’s methodologies.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
