@@ -9,14 +9,12 @@ sections:
       type: TitleBlock
     subtitle: a masterpiece in making
     text: >
-      We or so called "AURA" empowers aspiring entrepreneurs to turn their
-      business ideas into reality. Our comprehensive curriculum, mentorship, and
-      resources nurture entrepreneurship, creating job opportunities, fostering
-      local growth, and strengthening communities. By supporting passionate
-      individuals, we empower them to achieve their aspirations and contribute
-      to the success of their ventures. Startups rely on our services to sustain
-      growth and development. Design is the cornerstone and culmination of a
-      successful business.
+      We empower aspiring entrepreneurs to turn their business ideas into
+      reality. Our comprehensive curriculum, mentorship, and resources nurture
+      entrepreneurship, creating job opportunities, fostering local growth, and
+      strengthening communities. By supporting passionate individuals, we help
+      them achieve their aspirations and contribute to their ventures’ success.
+      Startups rely on our services to sustain growth and development.
     actions:
       - label: Get started
         altText: ''
