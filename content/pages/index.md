@@ -48,7 +48,7 @@ sections:
     items:
       - type: FeaturedItem
         title: NESAVU
-        subtitle: Textile Unit
+        subtitle: 'Our approach on fashion brand, and how to uplift them'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
