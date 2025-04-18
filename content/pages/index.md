@@ -235,7 +235,7 @@ sections:
       text: Beloved products that we have created
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Water colour bookmarks - Tedzukuri
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
