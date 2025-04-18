@@ -362,7 +362,7 @@ sections:
       - title: >-
           "Design can be art. Design can be aesthetics, but these guys bring all
           of them together."
-        tagline: Testimonial 5
+        tagline: Testimonial 4
         subtitle: Aparna Devi (Threadz)
         text: ''
         image:
