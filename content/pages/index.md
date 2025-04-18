@@ -342,7 +342,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: “Hardworking and Dedicated”
-        tagline: ''
+        tagline: Testimonial 3
         subtitle: ''
         text: ''
         actions: []
