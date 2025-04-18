@@ -208,29 +208,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Beloved products that we have created
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Water colour bookmarks - Tedzukuri
-    text: >
-      As we have done an internship under the team scholastic, we were driven to
-      make people get even more books and thus we made some bookmarks using
-      watercolours which were abstract and minimal which will make an impact
-      forever.
-    actions: []
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Beloved products that we have created
       color: text-dark
