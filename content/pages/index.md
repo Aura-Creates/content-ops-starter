@@ -363,7 +363,7 @@ sections:
           "Design can be art. Design can be aesthetics, but these guys bring all
           of them together."
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: Aparna Devi (Threadz)
         text: ''
         image:
           altText: Maria Walters
