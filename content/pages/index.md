@@ -148,7 +148,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ~ Award winning enterprises trust us ~
     images:
       - url: /images/contenful-logo.svg
         altText: Wellster logo
