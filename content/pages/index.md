@@ -217,11 +217,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Water colour bookmarks - Tedzukuri
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      As we have done an internship under the team scholastic, we were driven to
+      make people get even more books and thus we made some bookmarks using
+      watercolours which were abstract and minimal which will make an impact
+      forever.
     actions: []
     media:
       title: Title of the video
