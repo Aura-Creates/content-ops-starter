@@ -341,7 +341,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: “Hardworking and Dedicated”
         tagline: ''
         subtitle: ''
         text: ''
