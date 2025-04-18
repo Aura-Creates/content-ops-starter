@@ -360,12 +360,16 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: TLK Greens
-        text: ''
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
+        tagline: Testimonial 5
+        subtitle: 'Jane Walters, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
+          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -386,16 +390,12 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
+        tagline: Testimonial 3
+        subtitle: TLK Greens
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
