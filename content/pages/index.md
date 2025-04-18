@@ -219,7 +219,7 @@ sections:
       watercolours which were abstract and minimal which will make an impact
       forever.
     actions:
-      - label: Get started
+      - label: About Tedzukuri
         url: /
         icon: arrowRight
         iconPosition: right
