@@ -323,10 +323,7 @@ sections:
           accomplish a particular purpose, and it is perfect!"
         tagline: Testimonial 2
         subtitle: Meena Jawahar (JAS arts)
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           altText: John Doe
           styles:
