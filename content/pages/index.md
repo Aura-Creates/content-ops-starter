@@ -341,18 +341,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: TLK Greens
+      - title: ''
+        tagline: ''
+        subtitle: ''
         text: ''
-        image:
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -367,10 +359,18 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
-        tagline: ''
-        subtitle: ''
+      - title: >-
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
+        tagline: Testimonial 3
+        subtitle: TLK Greens
         text: ''
+        image:
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
