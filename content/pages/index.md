@@ -237,8 +237,10 @@ sections:
       type: TitleBlock
     subtitle: Water colour bookmarks - Tedzukuri
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      As we have done an internship under the team scholastic, we were driven to
+      make people get even more books and thus we made some bookmarks using
+      watercolours which were abstract and minimal which will make an impact
+      forever.
     actions:
       - label: Get started
         url: /
