@@ -232,7 +232,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Beloved products that we have created
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
