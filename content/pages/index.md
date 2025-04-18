@@ -194,11 +194,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Services of our company
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      <div style="text-align: center">Our teams at AURA are hand picked
+      individuals containing high idea of what it means to be a business. And
+      our marketing team does the best in looking out for campaigning
+      opportunities, our designing team who does the whole redesign design for
+      the logo, website, product and product package if needed. At AURA we
+      believe that all business can thrive and we will help you to reach that
+      level.</div>
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
