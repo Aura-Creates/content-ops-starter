@@ -414,10 +414,7 @@ sections:
       - title: '“Best Works done, quality, cheap and satisfactory”'
         tagline: Testimonial 6
         subtitle: Muthukrishnan (MR Tution Centre)
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           altText: Jane Doe
           styles:
