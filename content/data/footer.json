@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "A masterpiece in making\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
